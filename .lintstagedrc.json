@@ -1,0 +1,23 @@
+{
+  "./app/**/*.php": [
+    "npm run format"
+  ],
+  "./config/**/*.php": [
+    "npm run format"
+  ],
+  "./database/factories/**/*.php": [
+    "npm run format"
+  ],
+  "./database/seeders/**/*.php": [
+    "npm run format"
+  ],
+  "./routes/**/*.php": [
+    "npm run format"
+  ],
+  "./tests/**/*.php": [
+    "npm run format"
+  ],
+  "./.php-cs-fixer.dist.php": [
+    "npm run format"
+  ]
+}
